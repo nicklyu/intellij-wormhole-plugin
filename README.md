@@ -6,7 +6,7 @@ Press hotkey `Ctrl + A + S` to open external windows list:
 
 ![Search action](doc/external-windows-action.png)
 
-And then chose window to place in IDE
+And then choose a window to place in IDE
 
 ![Open external window](doc/paint-ide.gif)
 
