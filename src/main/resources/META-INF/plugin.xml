@@ -1,0 +1,18 @@
+<idea-plugin>
+    <id>wormhole</id>
+    <name>Wormhole</name>
+    <vendor email="nikita.lyubimov@jetbrains.com" url="https://www.jetbrains.com/">JetBrains</vendor>
+
+    <description><![CDATA[
+    Plugin allows you to place any open application into your favourite IDE.
+    Ctrl + A + S - and find window which you want to open in editor tab.
+    ]]></description>
+
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+    </extensions>
+
+    <actions>
+    </actions>
+</idea-plugin>
